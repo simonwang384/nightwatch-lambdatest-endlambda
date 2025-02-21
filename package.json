@@ -1,6 +1,6 @@
 {
   "name": "nightwatch-lambdatest-endlambda",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nightwatch.js custom command for adding test name and status for LambdaTest.",
   "keywords": [
     "nightwatchjs",
